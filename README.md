@@ -19,7 +19,7 @@ This backend API for the Pizza Place app is built with ASP.NET Core Web API and 
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/lbrquicho/pizza-place-backend.git
    cd pizza-place-backend
 
 2. **Configure the database connection**
